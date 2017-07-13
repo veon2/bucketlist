@@ -1,0 +1,29 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>BucketList App</title>
+</head>
+
+<body>
+ <form action="login.php">
+  <div align="center" class="container">
+    <label><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+	<br>
+    <label><b> Password</b></label>
+    
+    <input type="password" placeholder="Enter Password" name="psw" required>
+    <br>
+    <label><strong>Confirm Password</strong></label>
+    <input type="password" placeholder="Confirm Password" name="psw-repeat" required>
+    
+    
+
+    <div class="clearfix">
+      <button type="button"  class="cancelbtn">Cancel</button>
+      <button type="submit" class="signupbtn">Sign Up</button>
+    </div>
+  </div>
+</form> 
+</body>
+</html>
