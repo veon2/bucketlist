@@ -1,0 +1,45 @@
+<html>
+<head>
+<style>
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+VIEW BUCKETLIST
+<br>
+<br>
+<table>
+  <tr>
+    <th>Bucketlist Name</th>
+    <th>Achieve by</th>
+    <th>Achieved or Not</th>
+  </tr>
+  <tr>
+    <td>Get a Boyfriend</td>
+    <td>Feb 2017</td>
+    <td>Not Achieved</td>
+  </tr>
+  <tr>
+    <td>Clear degree</td>
+    <td>Dec 2016</td>
+    <td>Achieved</td>
+  </tr>
+ 
+</table>
+
+</body>
+</html>
