@@ -27,16 +27,19 @@ VIEW BUCKETLIST
     <th>Bucketlist Name</th>
     <th>Achieve by</th>
     <th>Achieved or Not</th>
+    <th>Activities</th>
   </tr>
   <tr>
     <td>Get a Boyfriend</td>
     <td>Feb 2017</td>
     <td>Not Achieved</td>
+    <td>Look pretty, Play hard to get, be humble </td>
   </tr>
   <tr>
-    <td>Clear degree</td>
+    <td>Sky dive</td>
     <td>Dec 2016</td>
     <td>Achieved</td>
+    <td>Mombasa will be the place, </td>
   </tr>
  
 </table>
