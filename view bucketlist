@@ -28,18 +28,25 @@ VIEW BUCKETLIST
     <th>Achieve by</th>
     <th>Achieved or Not</th>
     <th>Activities</th>
+    <th>Add Activities</th>
   </tr>
   <tr>
     <td>Get a Boyfriend</td>
     <td>Feb 2017</td>
     <td>Not Achieved</td>
     <td>Look pretty, Play hard to get, be humble </td>
+    <td>
+<a href="addactivity.html">Add Activity</a>
+</td>
   </tr>
   <tr>
     <td>Sky dive</td>
     <td>Dec 2016</td>
     <td>Achieved</td>
     <td>Mombasa will be the place, </td>
+    <td>
+<a href="addactivity.html">Add Activity</a>
+</td>
   </tr>
  
 </table>
