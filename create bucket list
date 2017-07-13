@@ -10,6 +10,9 @@ CREATE BUCKETLIST
   <br>
   Achieve By:<br>
   <input type="text" name="lastname">
+  <br>
+   Activities:<br>
+  <input type="text" name="Activities">
 </form>
 
 </body>
